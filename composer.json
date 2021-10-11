@@ -1,0 +1,17 @@
+{
+    "name": "root/casauto-seller-listing",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "CasautoSellerListing\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nearshoreffreeman",
+            "email": "frank.freeman@nearshoretechnology.com"
+        }
+    ],
+    "require": {}
+}
